@@ -1,1 +1,2 @@
 Hello Git Remote Branch!
+New line added in feature branch.
